@@ -1,0 +1,17 @@
+The Iris Dataset is a well-known dataset that is included in the sklearn.datasets module. It contains measurements of 150 iris flowers from three different species: setosa, versicolor, and virginica. Each flower is described by four features:
+
+    1.Sepal Length (in cm)
+
+    2.Sepal Width (in cm)
+
+    3.Petal Length (in cm)
+
+    4.Petal Width (in cm)
+
+The target variable is the species of the iris flower, which is encoded as:
+
+    0 for setosa
+
+    1 for versicolor
+
+    2 for virginica
